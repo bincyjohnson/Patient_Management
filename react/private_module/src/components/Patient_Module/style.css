@@ -1,0 +1,74 @@
+.toggle-wrapper {
+  width: 400px;
+  /* background-color: aquamarine; */
+}
+.toglebtn {
+  font-size: 20px;
+  padding: 10px;
+  border-radius: 15px;
+  border: 1px solid #7fafdf;
+  cursor: pointer;
+}
+.active {
+  background: linear-gradient(
+    270deg,
+    rgba(50, 200, 250, 1) 0%,
+    rgba(88, 125, 228, 1) 100%
+  );
+  color: white;
+  border: none;
+}
+
+/* Consultation form */
+/* .consult-section {
+  height: 50vh;
+} */
+.w-2 {
+  width: 400px;
+}
+select {
+  background: none;
+}
+.date-label {
+  width: 200px !important;
+}
+.date-input {
+  width: 350px;
+}
+
+.main-wrap {
+  width: 50%;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  padding: 20px 0;
+  margin: auto;
+  border-radius: 15px;
+}
+.hero-wrapper {
+  width: 100vw;
+  height: 90vh;
+}
+
+/* VIEW MODAL */
+
+.modal-content {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.15);
+}
+
+.modal-content h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.modal-content p {
+  font-size: 16px;
+  margin-bottom: 8px;
+}
+
+.display-row {
+  margin-top: 20px !important;
+  width: 80%;
+  margin: auto;
+}

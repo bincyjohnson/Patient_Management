@@ -1,0 +1,9 @@
+.footer {
+  padding: 48px 0;
+  background: url('https://preview.colorlib.com/theme/medart/images/footer-bg.png.webp')
+    no-repeat center #fff;
+  background-size: cover;
+  font-size: 14px;
+  color: #828282;
+  box-shadow: 6px -2px 12px rgba(0, 0, 0, 0.15);
+}
